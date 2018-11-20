@@ -1,0 +1,1 @@
+call compile preprocessFileLineNumbers "Sqx\UnitTest\Init.sqx.sqf"; call Sqx_UnitTest_TestEngine_RunDelayedAsync;
