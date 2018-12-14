@@ -30,6 +30,10 @@
                 <IsSelected>false</IsSelected>
                 <SubNodes />
               </ProjectNodeViewModel>
+              <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="README.txt" IsExpanded="false" FileName="Sqx\UnitTest\README.txt">
+                <IsSelected>true</IsSelected>
+                <SubNodes />
+              </ProjectNodeViewModel>
             </SubNodes>
           </ProjectNodeViewModel>
         </SubNodes>
@@ -48,10 +52,6 @@
           </ProjectNodeViewModel>
           <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="InitMyTestClasses.sqx" IsExpanded="false" FileName="Tests\InitMyTestClasses.sqx">
             <IsSelected>false</IsSelected>
-            <SubNodes />
-          </ProjectNodeViewModel>
-          <ProjectNodeViewModel xsi:type="ProjectFileNodeViewModel" Name="README.txt" IsExpanded="false" FileName="Tests\README.txt">
-            <IsSelected>true</IsSelected>
             <SubNodes />
           </ProjectNodeViewModel>
         </SubNodes>
